@@ -4,18 +4,10 @@
 <div align="left">
 
 -------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrcksgur1)
 
-<!-- 깃헙 스탯
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhrcksgur1&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
-
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrcksgur1&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
- -->
-<br>
-
-## 🔨 Skills 🔨
-- [🏔️Santa](https://github.com/dhrcksgur1/Santa)- 등산을 사랑하는 사람들을 위한 100대 명산에 대한 정보 제공 및 다양한 활동 형 등산 커뮤니티 서비스 (2024)
-  
+## 🗂️ Projects🗂️
+ [🏔️Santa](https://github.com/dhrcksgur1/Santa)- 등산을 사랑하는 사람들을 위한 100대 명산에 대한 정보 제공 및 다양한 활동 형 등산 커뮤니티 서비스 (2024)
+  <br></br>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -26,15 +18,15 @@
     
 ## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
+    <!-- Backend 
+    <p><strong>Backend</strong></p>-->
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
+    <!-- Server 
+    <p><strong>Server</strong></p>-->
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="nginx" src ="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -52,3 +44,15 @@
     </div>
  -->
 </div>
+<br></br><br></br>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrcksgur1)
+
+
+<!-- 깃헙 스탯
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhrcksgur1&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
+
+[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrcksgur1&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
+ -->
+<br>
