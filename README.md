@@ -13,6 +13,10 @@
  -->
 <br>
 
+## 🔨 Skills 🔨
+- [🏔️Santa](https://github.com/dhrcksgur1/Santa)- 등산을 사랑하는 사람들을 위한 100대 명산에 대한 정보 제공 및 다양한 활동 형 등산 커뮤니티 서비스 (2024)
+  
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:dhrcksgur1@gmail.com">
@@ -39,11 +43,12 @@
 <img alt="amazon ec2" src ="https://img.shields.io/badge/amazon ec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <img alt="amazonrds" src ="https://img.shields.io/badge/amazonrds-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white"/>
     </div>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
+    <!-- Frontend 
+    <p><strong>ETC</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     </div>
+ -->
 </div>
