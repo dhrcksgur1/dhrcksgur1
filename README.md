@@ -12,11 +12,11 @@
 </div>
 <div>
  
- [🐶Pokeranger](https://github.com/dhrcksgur1/pokeranger-back) - 유기동물 보호 물품 후원 쇼핑몰 
+ [😺Pokeranger](https://github.com/dhrcksgur1/pokeranger-back) - 유기동물 보호 물품 후원 쇼핑몰 
 </div>
 <div>
  
- [😺유기견 입양 게시판](https://github.com/dhrcksgur1/crud-first-project) - 첫 CRUD 게시판 프로젝트, 유기견의 입양을 목표로 하는 게시판 서비스
+ [🐶유기견 입양 게시판](https://github.com/dhrcksgur1/crud-first-project) - 첫 CRUD 게시판 프로젝트, 유기견의 입양을 목표로 하는 게시판 서비스
 </div>
 
   <br></br>
