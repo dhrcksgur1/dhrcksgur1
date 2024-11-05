@@ -36,7 +36,7 @@
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-     <img src= "https://camo.githubusercontent.com/071d5c2061849dea8d6811a66405883f23af6c358afc30725236291040847697/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a50412d3539363636433f7374796c653d666f722d7468652d6261646765266c6f676f3d48696265726e617465266c6f676f436f6c6f723d7768697465">
+<!--      <img src= "https://camo.githubusercontent.com/071d5c2061849dea8d6811a66405883f23af6c358afc30725236291040847697/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a50412d3539363636433f7374796c653d666f722d7468652d6261646765266c6f676f3d48696265726e617465266c6f676f436f6c6f723d7768697465"> -->
     </div>
     <!-- Server 
     <p><strong>Server</strong></p>-->
